@@ -7,25 +7,25 @@ List of software, extensions, and how everything is setup.
 
 ## Essential
 
-[Lasspass](https://lastpass.com/)  
+[Lasspass](https://lastpass.com/)  // done  
 Restore keychain from Dropbox folder (/Apps/1Password)
 
-[Alfred V2 with Powerpack](http://alfredapp.com/)  
+[Alfred V2 with Powerpack](http://alfredapp.com/)  // not sure thinking of getting family pack 5 macs  
 [Cyberduck](http://cyberduck.ch/)  
-[DaisyDisk](http://daisydiskapp.com)  
-[Dropbox](http://dropbox.com/)  
-[Evernote](http://evernote.com)  
+[DaisyDisk](http://daisydiskapp.com)  // done  
+[Dropbox](http://dropbox.com/)  // done  
+[Evernote](http://evernote.com)  // done  
 [Fantastical](http://flexibits.com/fantastical)  
 [Glui](http://glui.me)  
-[iTerm](http://iterm2.com)  
+[iTerm](http://iterm2.com)  // done  
 [Kaleidoscope](http://kaleidoscopeapp.com/)  
-[Mozilla Firefox](http://www.mozilla.org/firefox/)  
-[Google Chrome](https://chrome.google.com)  
-[Apple Safari](http://www.apple.com/safari/)  
+[Mozilla Firefox](http://www.mozilla.org/firefox/)  // done  
+[Google Chrome](https://chrome.google.com)  // done  
+[Apple Safari](http://www.apple.com/safari/)  // done  
 [Sketch](http://www.bohemiancoding.com/sketch/)  
-[Sublime Text](http://www.sublimetext.com/2)  
-[Vagrant](http://vagrantup.com)  
-[VirtualBox](http://virtualbox.org)  
+[Sublime Text](http://www.sublimetext.com/2)  // done  
+[Vagrant](http://vagrantup.com)  // done  
+[VirtualBox](http://virtualbox.org)  // done  
 [XCode - Developer Tools](https://developer.apple.com/xcode/)  
 *required for terminal tools like homebrew*
 
@@ -38,11 +38,12 @@ Restore keychain from Dropbox folder (/Apps/1Password)
 [LiveReload](http://livereload.com)  
 [Sequel Pro](http://sequelpro.com) or [Induction](http://inductionapp.com)  
 [The Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html)  
-[VLC](http://www.videolan.org)  
+[VLC](http://www.videolan.org)  // done  
 [xScope](http://iconfactory.com/software/xscope)  
 
 ## Useful
 
+[Cinch](http://www.irradiatedsoftware.com/cinch)  // done  
 [AirMail](http://airmailapp.info/) *alternative to Sparrow*  
 [CheatSheet](http://www.grandtotal.biz/CheatSheet/)  
 [Delibar](http://www.delibarapp.com) *brings Pinboard & Delicious to desktop*  
@@ -53,7 +54,7 @@ Restore keychain from Dropbox folder (/Apps/1Password)
 [Gemini](http://macpaw.com/gemini)  
 [Reeder](http://reederapp.com)  
 [Spectrum](http://www.eigenlogik.com/spectrum/mac)  
-[Skype](http://skype.com) *better chat style [Brief](https://github.com/miekd/Brief/)*  
+[Skype](http://skype.com) *better chat style [Brief](https://github.com/miekd/Brief/)*  // done  
 
 ## Preference Panes
 
