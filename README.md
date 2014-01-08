@@ -1,4 +1,4 @@
-Waako's Mac setup
+Kae's Mac setup
 =========
 
 List of software, extensions, and how everything is setup.
@@ -7,7 +7,7 @@ List of software, extensions, and how everything is setup.
 
 ## Essential
 
-[1Password](http://agilebits.com/onepassword)  
+[Lasspass](https://lastpass.com/)  
 Restore keychain from Dropbox folder (/Apps/1Password)
 
 [Alfred V2 with Powerpack](http://alfredapp.com/)  
