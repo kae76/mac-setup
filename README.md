@@ -13,17 +13,17 @@ List of software, extensions, and how everything is setup.
 [Alfred V2 with Powerpack](http://alfredapp.com/)   
 [DaisyDisk](http://daisydiskapp.com)    
 [Dropbox](http://dropbox.com/)   
-[Evernote](http://evernote.com)   
+[Evernote](http://evernote.com)  
+[XCode - Developer Tools](https://developer.apple.com/xcode)  *Required for terminal tools like homebrew* 
 [iTerm](http://iterm2.com)   
+[Git](http://git-scm.com)  _Remember perms for downloads to be allowed for unknown developers_
 [ssh keys](https://help.github.com/articles/generating-ssh-keys#platform-mac)
 [Git](http://git-scm.com/download/mac)  
 [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)   
-[Sublime Text 2](http://www.sublimetext.com/2)  
-_remember plugins for drupal etc_  
+[Sublime Text 2](http://www.sublimetext.com/2)  _Remember plugins for drupal etc_  
 [Vagrant](http://vagrantup.com)    
 [VirtualBox](http://virtualbox.org)  
-[XCode - Developer Tools](https://developer.apple.com/xcode)  
-*required for terminal tools like homebrew*  
+ 
 Also remember to open and accept T&C etc otherwise annoying error on terminal will happen      
 
 _yet to do_  
@@ -53,6 +53,7 @@ _yet to do_
 [Cinch](http://www.irradiatedsoftware.com/cinch)   
 [Skype](http://skype.com) *better chat style [Brief](https://github.com/miekd/Brief/)*  
 [Adium](https://adium.im/)  
+[Fluid App](http://fluidapp.com)
 
 _yet to do_  
 [AirMail](http://airmailapp.info/) *alternative to Sparrow*  
