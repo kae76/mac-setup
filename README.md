@@ -37,11 +37,11 @@ _yet to do_
 ## Tools
 
 [VLC](http://www.videolan.org)
+[Fluid](http://fluidapp.com) *no LastPass integration* 
 
 _yet to do_  
 [CleanMyMac 2](http://macpaw.com/cleanmymac)  
 [Doxie](www.getdoxie.com)  
-[Fluid](http://fluidapp.com) *no 1password integration*  
 [ImageOptim](http://imageoptim.pornel.net)  
 [LiveReload](http://livereload.com)  
 [Sequel Pro](http://sequelpro.com) or [Induction](http://inductionapp.com)  
@@ -53,7 +53,6 @@ _yet to do_
 [Cinch](http://www.irradiatedsoftware.com/cinch)   
 [Skype](http://skype.com) *better chat style [Brief](https://github.com/miekd/Brief/)*  
 [Adium](https://adium.im/)  
-[Fluid App](http://fluidapp.com)
 
 _yet to do_  
 [AirMail](http://airmailapp.info/) *alternative to Sparrow*  
