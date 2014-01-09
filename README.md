@@ -16,7 +16,7 @@ List of software, extensions, and how everything is setup.
 [Evernote](http://evernote.com)  
 [XCode - Developer Tools](https://developer.apple.com/xcode)  *Required for terminal tools like homebrew* 
 [iTerm](http://iterm2.com)   
-[Git](http://git-scm.com)  _Remember perms for downloads to be allowed for unknown developers_
+[Git](http://git-scm.com)  _Remember perms for downloads to be allowed for unknown developers_  
 [ssh keys](https://help.github.com/articles/generating-ssh-keys#platform-mac)
 [Git](http://git-scm.com/download/mac)  
 [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)   
