@@ -22,12 +22,12 @@ List of software, extensions, and how everything is setup.
 [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)   
 [Sublime Text 2](http://www.sublimetext.com/2)   
 Sublime text 2 plugins:  
-https://github.com/enzolutions/sublime-drupal <-- follow this step by step! Don't skip any of it!  
+https://github.com/enzolutions/sublime-drupal <-- follow this step by step! Dont skip any of it!  
 [Vagrant](http://vagrantup.com)    
 [VirtualBox](http://virtualbox.org)  
 
 
-_yet to do_  
+_YET TO DO_  
 [Fantastical](http://flexibits.com/fantastical)  
 [Glui](http://glui.me)  
 [Cyberduck](http://cyberduck.ch/)  
@@ -37,10 +37,10 @@ _yet to do_
 
 ## Tools
 
-[VLC](http://www.videolan.org)
+[VLC](http://www.videolan.org)  
 [Fluid](http://fluidapp.com) *no LastPass integration* 
 
-_yet to do_  
+_YET TO DO_  
 [CleanMyMac 2](http://macpaw.com/cleanmymac)  
 [Doxie](www.getdoxie.com)  
 [ImageOptim](http://imageoptim.pornel.net)  
@@ -55,7 +55,7 @@ _yet to do_
 [Skype](http://skype.com) *better chat style [Brief](https://github.com/miekd/Brief/)*  
 [Adium](https://adium.im/)  
 
-_yet to do_  
+_YET TO DO_  
 [AirMail](http://airmailapp.info/) *alternative to Sparrow*  
 [CheatSheet](http://www.grandtotal.biz/CheatSheet/)  
 [Delibar](http://www.delibarapp.com) *brings Pinboard & Delicious to desktop*  
@@ -69,6 +69,6 @@ _yet to do_
 
 ## Preference Panes
 
-_yet to do_  
+_YET TO DO_  
 [Choosy](http://www.choosyosx.com/)  
 [HyperDock](http://hyperdock.bahoom.com/)  
